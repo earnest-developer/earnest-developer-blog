@@ -46,8 +46,8 @@ googleAnalytics = ""
 [deployment]
 
 [[deployment.targets]]
-name = "earnest-developer-blog-bucket"
-URL = "s3://earnest-developer-blog?region=eu-west-2"
+name = "earnestdeveloper.com"
+URL = "s3://earnestdeveloper.com?region=eu-west-2"
 
 # If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
 # cloudFrontDistributionID = <ID>
