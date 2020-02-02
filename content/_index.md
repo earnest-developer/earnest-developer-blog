@@ -6,7 +6,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - The Earnest Sabrina
+      - The Earnest Developer
     subtitle:
       - A blog about writing backend software
     titleColor: 
