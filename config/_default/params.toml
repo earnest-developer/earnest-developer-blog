@@ -42,7 +42,7 @@ enableBio = false
 enableSidebar = true
 enableSidebarTags = true
 enableSidebarSeries = true
-enableSidebarCategories = true
+enableSidebarCategories = false
 enableHomeSidebarTitles = true
 enableListSidebarTitles = true
 enableToc = true
@@ -118,9 +118,9 @@ commento = false
   email = ""
   phone = ""
   facebook = ""
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
-  stack-overflow = "http://example.org/"
+  twitter = ""
+  github = "https://github.com/earnest-developer"
+  stack-overflow = ""
   instagram = ""
   google-plus = ""
   youtube = ""
@@ -150,10 +150,3 @@ commento = false
   wechat = ""
   paypal = ""
   patreon = ""
-
-# possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
-[[share]]
-  name = "facebook"
-  username = ""
-[[share]]
-  name = "twitter"

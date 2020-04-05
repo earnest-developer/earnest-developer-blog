@@ -38,6 +38,5 @@ googleAnalytics = ""
   home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
-  category = "categories"
   tag = "tags"
   series = "series"
