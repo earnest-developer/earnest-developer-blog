@@ -5,7 +5,7 @@ custom_css = ["css/custom.css"]
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 
-themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
+themeOptions = ["light"]
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase"]
 notAllowedTypesInArchive = ["about", "talks", "showcase"]
@@ -58,7 +58,7 @@ showPoweredBy = true
 showFeedLinks = false
 showSocialLinks = true
 enableLangChange = false
-enableThemeChange = true
+enableThemeChange = false
 
 # service
 baiduAnalytics = ""
