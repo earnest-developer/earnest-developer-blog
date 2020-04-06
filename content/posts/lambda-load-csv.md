@@ -20,7 +20,7 @@ This article is showcasing a nifty integration between S3, Lambdas and Amazon Au
 
 ## Use case
 
-Some times loading CSVs to a database is a one-off job. A convoluted SQL script is probably created and then deployed by someone who has the right permission to a database.
+Some times loading CSVs to a database is a one-off job. A convoluted SQL script is probably created and then deployed by someone who has the right permission.
 Other times though, it might be part of a recurring business process in which case we should encapsulate that file loading logic into a service. If you are on the AWS Platform, this can be done in a clean way.
 
 ## Setup
